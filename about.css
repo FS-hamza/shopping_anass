@@ -1,0 +1,50 @@
+section{
+    height: 600px;
+    background-image: url(home/WhatsApp\ Image\ 2024-02-04\ at\ 03.14.44_642a6b49.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    h3{
+        color: rgb(0, 0, 0);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-style: italic;
+        font-size: 50px;
+        font-weight: 200;
+        flood-opacity: unset;
+        position: relative;
+        top: 240px;
+
+    
+    }
+    p{
+        color: rgb(145, 94, 18);
+        font-size: 40px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: oblique;
+        font-weight: 200;
+        
+        position: relative;
+        top: 250px;
+    }
+}
+main{
+    background-color: rgb(200, 193, 193);
+}
+
+#test{
+    color: white;
+    text-align: center;
+    
+}
+#icons{
+    padding: 30px;
+    
+}
+#icons img{
+    margin-right: 2rem;
+    width: 2.5rem;
+    transition: 1s;
+}
+#icons  :hover{
+    transform: scale(1.2);
+   
+}

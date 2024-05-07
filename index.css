@@ -1,0 +1,78 @@
+a{
+    text-decoration: none;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+section{
+    color: whitesmoke;
+    background-image: url(home/hmza.jpg);
+    height: 700px;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+
+
+    center{
+        position: relative;
+        top: 220px;
+        padding: 10px;
+    }
+}
+main{
+    color: darkgoldenrod;
+    background-image: url(home/image_lg2.jpg);
+    background-size: cover;
+    height: 700px;
+    text-align: center;
+    align-items: center;
+
+    center{
+        position: relative;
+        top: 220px;
+        padding: 20px;
+
+    }
+}
+div{
+    height: 700px;
+    color: rgb(251, 244, 244);
+    background-image: url(home/image_sm.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    center{
+        padding: 20px;
+
+    }
+    button{
+        position: relative;
+        top: 140px;
+        
+    }
+    h3{
+        width: 100%;
+        position: relative;
+        top: 100px;
+        
+    }
+    p{
+        width: 100%;
+        position: relative;
+        top: 120px;
+        
+    }
+    a{
+        text-decoration: none;
+    }
+    
+}
+
+
+
+
+
+  
